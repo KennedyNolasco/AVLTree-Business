@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1556216219 source:/home/icomp/Documentos/Trabalho1_AED2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"arvore_binaria.h"
+
+1556216279 source:/home/icomp/Documentos/Trabalho1_AED2/arvore_binaria.c
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+	"arvore_binaria.h"
+
+1556209191 /home/icomp/Documentos/Trabalho1_AED2/arvore_binaria.h
+
+1556499197 source:e:\arquivos\faculdade\ufam\aed2\trabalho1_aed2\trabalho1_aed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"arvore_binaria.h"
+
+1556406780 e:\arquivos\faculdade\ufam\aed2\trabalho1_aed2\trabalho1_aed2\arvore_binaria.h
+
+1556406772 source:e:\arquivos\faculdade\ufam\aed2\trabalho1_aed2\trabalho1_aed2\arvore_binaria.c
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+	"arvore_binaria.h"
+
